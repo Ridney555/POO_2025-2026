@@ -1,5 +1,4 @@
 package aula04;
-
 public class Data {
     //atributos
     private int dia;
