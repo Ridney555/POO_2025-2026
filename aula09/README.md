@@ -1,4 +1,4 @@
 # Programação Orientada a Objetos
-*Herança em Java*
+*Herança e Poliformismo em Java*
 - Conceito
 - Exercício Prático
